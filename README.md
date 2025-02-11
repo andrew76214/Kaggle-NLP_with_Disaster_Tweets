@@ -21,7 +21,8 @@ Key characteristics of the dataset include:
 - text
 
 ## Dataset Overview
-- test.cvs
+- train.csv
+- test.csv
 
 ## Dataset EDA
 
