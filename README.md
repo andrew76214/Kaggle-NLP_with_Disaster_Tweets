@@ -53,7 +53,7 @@ flowchart TD
 ```
 ## Models Implemented  
 
-### Machine Learning Models  
+### Machine Learning Models 1
 - **Linear Models**:  
   - Ridge Classifier   
   - Logistic Regression  
@@ -63,6 +63,15 @@ flowchart TD
   - Random Forest  
   - XGBoost  
   - Voting Classifier
+
+### Machine Learning Models 2
+
+- **Decision Trees and Ensemble Models**:  
+  - XGBoost  
+  - Random Forest  
+  - LightBGM
+  - Stacking Classifier  
+  - Voting Classifier (soft, hard)
 
 ### Deep Learning Models
   - RNN
