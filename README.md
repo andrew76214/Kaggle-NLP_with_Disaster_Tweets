@@ -29,6 +29,22 @@ Key characteristics of the dataset include:
 
 ## Dataset EDA
 
+<div align="center">
+  <img src="https://github.com/andrew76214/Kaggle-NLP_with_Disaster_Tweets/blob/main/img/EDA_hisplot.png" alt="Hisplot"/>
+</div>
+
+<div align="center">
+  <img src="https://github.com/andrew76214/Kaggle-NLP_with_Disaster_Tweets/blob/main/img/EDA_scatterplot.png" alt="Scatterplot"/>
+</div>
+
+<div align="center">
+  <img src="https://github.com/andrew76214/Kaggle-NLP_with_Disaster_Tweets/blob/main/img/EDA_boxplot.png" alt="Boxplot"/>
+</div>
+
+<div align="center">
+  <img src="https://github.com/andrew76214/Kaggle-NLP_with_Disaster_Tweets/blob/main/img/EDA_wordcloud.png" alt="Wordcloud"/>
+</div>
+
 ## Data Preprocessing  
 1. **Step 1: Handling data**  
     - Applied `dropna` to ensure data completeness.
