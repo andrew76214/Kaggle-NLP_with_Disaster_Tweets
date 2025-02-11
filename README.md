@@ -37,13 +37,15 @@ flowchart TD
     A[Dataset] --> B[Handeling data]
     B --> C[Data Preprocessing Completed]
     C --> D[Deep Learning Models]
-    C --> E[Machine Learning Models]
+    C --> E[Machine Learning Models 1]
+    C --> F[Machine Learning Models 2]
 
-    D --> F{Validation Dataset}
-    E --> F
+    D --> G{Validation Dataset}
+    E --> G
+    F --> G
     
-    F --> G[Test Dataset]
-    G --> H[Final Evaluation]
+    G --> H[Test Dataset]
+    H --> I[Final Evaluation]
 ```
 ## Models Implemented  
 
