@@ -11,6 +11,7 @@
 - [Evaluation](#evaluation)
 - [Experimental Record](#experimental-record)
 - [License](#license)
+- [Contributors](#contributors)
 
 ## Introduction
 The **Kaggle-NLP_with_Disaster_Tweets** project is aimed to build a machine learning model that predicts which Tweets are about real disasters and which one's aren't. 
@@ -94,6 +95,9 @@ flowchart TD
 
 ## Evaluation
 We use F1 score as our performance metric.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andrew76214/Kaggle-NLP_with_Disaster_Tweets/refs/heads/main/img/f1score%20formula.avif" alt="Hisplot"/>
+</div>
 
 ## Experimental Record
 <div align="center">
@@ -102,3 +106,11 @@ We use F1 score as our performance metric.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contributors
+
+<div align="center">
+  <a href="https://github.com/andrew76214/Kaggle-NLP_with_Disaster_Tweets/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=andrew76214/Kaggle-NLP_with_Disaster_Tweets" alt="Contributors"/>
+  </a>
+</div>
