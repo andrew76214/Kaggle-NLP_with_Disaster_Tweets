@@ -96,6 +96,9 @@ flowchart TD
 We use F1 score as our performance metric.
 
 ## Experimental Record
+<div align="center">
+  <img src="https://github.com/andrew76214/Kaggle-NLP_with_Disaster_Tweets/blob/main/img/ML1_evaluation.png" alt="Hisplot"/>
+</div>
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
