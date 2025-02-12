@@ -47,9 +47,14 @@ Key characteristics of the dataset include:
 </div>
 
 ## Data Preprocessing  
-1. **Step 1: Handling data**  
+1. **Step 1: Text Cleaning** 
+    - Removed all URLs, HTML, and acronyms.
+    - Converted all text to lowercase.
+    - Removed punctuation.
+2. **Step 2: Handling Missing Values**
     - Applied `dropna` to ensure data completeness.
-    - Clean text by removing URLs, HTML, and acronyms
+3. **Step 3: Text Vectorization**
+    - Applied `CountVectorizer` or `TfidfVectorizer` to convert the cleaned text data into numerical representations suitable for machine learning models.
 
 ## Pipeline
 
