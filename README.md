@@ -51,8 +51,10 @@ Key characteristics of the dataset include:
     - Removed all URLs, HTML, and acronyms.
     - Converted all text to lowercase.
     - Removed punctuation.
+
 2. **Step 2: Handling Missing Values**
     - Applied `dropna` to ensure data completeness.
+    
 3. **Step 3: Text Vectorization**
     - Applied `CountVectorizer` or `TfidfVectorizer` to convert the cleaned text data into numerical representations suitable for machine learning models.
 
