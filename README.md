@@ -29,19 +29,26 @@ Key characteristics of the dataset include:
 - sample_submission.csv: a sample submission file in the correct format
 
 ## Dataset EDA
+### Text Length and Word Count Analysis
 
+#### Hisplot
 <div align="center">
   <img src="https://github.com/andrew76214/Kaggle-NLP_with_Disaster_Tweets/blob/main/img/EDA_hisplot.png" alt="Hisplot"/>
 </div>
 
+#### Scatterplot
 <div align="center">
   <img src="https://github.com/andrew76214/Kaggle-NLP_with_Disaster_Tweets/blob/main/img/EDA_scatterplot.png" alt="Scatterplot"/>
 </div>
 
+#### Boxplot and Violin Plot
 <div align="center">
   <img src="https://github.com/andrew76214/Kaggle-NLP_with_Disaster_Tweets/blob/main/img/EDA_boxplot.png" alt="Boxplot"/>
 </div>
 
+### Text Conent Analysis
+
+#### Word Cloud
 <div align="center">
   <img src="https://github.com/andrew76214/Kaggle-NLP_with_Disaster_Tweets/blob/main/img/EDA_wordcloud.png" alt="Wordcloud"/>
 </div>
